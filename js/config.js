@@ -20,11 +20,24 @@ const CONFIG = {
   gate: { question: "", answers: [], hint: "" },
   /* "A reason why" button picks one of these at random. Add as many as you like. */
   reasons: [
-    "You make ordinary days feel like holidays.",
-    "You stay kind even when you are tired.",
-    "[WRITE A REASON ONLY YOU WOULD KNOW]",
-    "[WRITE ANOTHER ONE]"
-  ],
+  "You make ordinary days feel like holidays.",
+  "You stay kind even when you are tired, and I notice every time.",
+  "Your laugh is my favourite sound, and I still work to earn it.",
+  "With you, silence never feels awkward. It feels like home.",
+  "You believe in me on the days I forget how.",
+  "You turn small plans into the best memories.",
+  "The way you light up when you talk about the things you love.",
+  "You are brave in ways you do not even notice.",
+  "You make me want to be a better person, without ever asking me to.",
+  "Home is not a place anymore. It is wherever you are.",
+  "You hold my hand like you mean it, every single time.",
+  "Even your bad days are somehow full of grace.",
+  "You listen to me, not just my words but what is underneath them.",
+  "You made a whole year feel like a few lovely weeks.",
+  "I love the way you say Aeee Taahirrrr.",
+  "I fell for you a little more when I see you smile.",
+  "Out of everyone in the world, I would choose you again, and again."
+],
   letterTitle: "For when you have finished looking at the walls",
   letter:
 `My love MADIHA,
